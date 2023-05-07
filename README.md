@@ -1,2 +1,2 @@
-# Cua
-Cua token crypto
+#Alchua
+Alchua token crypto
